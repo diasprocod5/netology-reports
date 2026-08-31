@@ -96,3 +96,19 @@ docker run -d \
 ### 1.4 Управление названием таблицы
 В `main.py` добавлена переменная `TABLE_NAME` для управления названием таблицы [ссылка на коммит](https://github.com/diasprocod5/shvirtd-example-python/commit/6049148940088b2964d086f5cc75378e4008093a)
 ![TABLE_NAME ENV](images/task_1_4.png)
+
+
+## Задача 2
+![Отчет о сканировании](images/task_2.png)
+
+## Задача 3
+[ссылка на коммит с compose.yaml](https://github.com/diasprocod5/shvirtd-example-python/commit/6fda13caf96a529479d0b601972c812a25f498ec) 
+
+![скриншот sql](images/task_3.png)
+
+## Задача 4
+[ссылка на форк](https://github.com/diasprocod5/shvirtd-example-python)
+
+![скриншот sql](images/task_4_1.png)
+
+![дополнительное задание](images/task_4_2.png)
