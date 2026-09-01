@@ -112,3 +112,12 @@ docker run -d \
 ![скриншот sql](images/task_4_1.png)
 
 ![дополнительное задание](images/task_4_2.png)
+
+
+## Задача 5
+[Коммит скрипта ](https://github.com/diasprocod5/shvirtd-example-python/commit/d2a9159c69bc5c1e7bb8231173657e6a7650c7a3)
+
+
+![Скрипт](images/task_5_1.png)
+
+![crontab](images/task_5_2.png)
