@@ -121,3 +121,9 @@ docker run -d \
 ![Скрипт](images/task_5_1.png)
 
 ![crontab](images/task_5_2.png)
+
+## Задача 6
+
+![Смотрим в дайве слои](images/task_6_1.png)
+
+![Извлекаем бинарник согласно слою](images/task_6_2.png)
