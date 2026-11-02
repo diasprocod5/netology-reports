@@ -81,3 +81,7 @@ variable "vm_web_serial_port_enable" {
 
 ![task_3_screnshot](images/task3.png)
 
+## Задание 4
+#### [Ссылка на коммит](https://github.com/diasprocod5/netology-practices/commit/df85fc303538557b958afca7555d2e7f4ab72b5a)
+
+![task_3_screnshot](images/task4.png)
