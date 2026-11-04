@@ -101,3 +101,7 @@ variable "vm_web_serial_port_enable" {
 ## Задание 7
 
 ![task_3_screnshot](images/task7.png)
+
+## Задание 8
+
+![task_3_screnshot](images/task8.png)
