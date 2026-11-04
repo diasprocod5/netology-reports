@@ -1,5 +1,7 @@
 
+#### [Ссылка на репозиторий с практикой ](https://github.com/diasprocod5/netology-practices/tree/main/tf-practice-2)
 ## Задание 1
+#### [Ссылка на коммит](https://github.com/diasprocod5/netology-practices/commit/3b7d5f83f3db66101e24928b2fd1f7d4f42b63ea)
 #### 4.1 Для `platform_id` не существует значения `stantart-v4`, изменено на `standard-v2`.
 
 #### 4.2 Для  `standard-v2` недопустимо `cores = 1`, изменено на `cores = 2`
@@ -18,7 +20,7 @@
 
 ## Задание 2
 #### Хардкод значения заменены переменными, `terraform plan` не обнаружил изменений
-
+#### [Ссылка на коммит](https://github.com/diasprocod5/netology-practices/commit/f6b270f9f0349cf56c112e87e42beb03088caec6)
 ![tasl_2_screenshot](images/task_2.png)
 
 ```hcl
