@@ -105,3 +105,9 @@ variable "vm_web_serial_port_enable" {
 ## Задание 8
 
 ![task_3_screnshot](images/task8.png)
+
+## Задание 9
+#### Отключил внешние ip для ВМ; Создал ресурсы: NAT-шлюз, таблицу маршрутизации; Привязал таблицу к подсетям.
+#### [Ссылка на коммит](https://github.com/diasprocod5/netology-practices/commit/85ebe3256a8c4986299842efd7c12e12b8641a5b)
+
+![task_3_screnshot](images/task9_1.png)
